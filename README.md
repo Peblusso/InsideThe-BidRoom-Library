@@ -32,6 +32,9 @@ Evaluation matrix samples, scoring sheets, and weighting examples.
 ### 7. Proposal Playbook  
 A practical guide to building winning proposals — from opportunity tracking to submission.  
  [View the Playbook](./ProposalPlaybook/InsideTheBidRoom_ProposalPlaybook.pdf)
+### 8. Bid / No-Bid Decision Frameworks  
+Tools and checklists to guide teams through go/no-go decisions.  
+➡️ [View the Bid / No-Bid SOP](./DecisionFrameworks/BidNoBid_SOP.pdf)
 
 
 ##  How to Contribute  
