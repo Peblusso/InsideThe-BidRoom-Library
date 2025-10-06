@@ -29,6 +29,10 @@ Templates for gathering partner information, due diligence, and consortium summa
 
 ### 6. RFP Evaluation Frameworks  
 Evaluation matrix samples, scoring sheets, and weighting examples.  
+### 7. Proposal Playbook  
+A practical guide to building winning proposals — from opportunity tracking to submission.  
+ [View the Playbook](./ProposalPlaybook/InsideTheBidRoom_ProposalPlaybook.pdf)
+
 
 ##  How to Contribute  
 
