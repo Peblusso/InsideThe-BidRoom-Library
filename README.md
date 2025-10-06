@@ -5,13 +5,11 @@ An open-source library for bid and proposal professionals across Africa and beyo
 
  Templates |  Tools |  Workflows |  Community Contributions  
 
----
-
 ##  Purpose  
 
 The goal of this library is to create a **shared knowledge base** for bid and proposal teams — especially across Africa — to access practical templates, trackers, and frameworks that make proposal development more structured, faster, and smarter.  
 
--##  Categories  
+##  Categories  
 
 ### 1. Expressions of Interest (EOIs)  
 Short formats and structures used for early-stage bidding.  
@@ -32,8 +30,6 @@ Templates for gathering partner information, due diligence, and consortium summa
 ### 6. RFP Evaluation Frameworks  
 Evaluation matrix samples, scoring sheets, and weighting examples.  
 
----
-
 ##  How to Contribute  
 
 We welcome contributions!  
@@ -41,19 +37,15 @@ If you have a useful template, framework, or tool — please share it.
 
 **Steps to contribute:**  
 1. Click **“Add file → Upload files”**  
-2. Add your document under the right folder (e.g., `EOIs/`, `ComplianceTrackers/`)  
+2. Add your document under the right folder (EOIs/`Workflows, `ComplianceTrackers/`)  
 3. Add a short note describing the file  
 4. Submit!  
 
 Each contribution helps build a richer, more practical resource for bid professionals worldwide.  
 
----
-
 ##  Credits  
 
 Initiated by [Priscilla O.](https://www.linkedin.com/in/priscilla-o-), inspired by the *Inside the Bid Room* series — a storytelling and systems initiative exploring the evolving world of proposal management.  
-
----
 
 ##  Coming Soon  
 
