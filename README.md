@@ -3,15 +3,15 @@
 
 An open-source library for bid and proposal professionals across Africa and beyond.  
 
-💼 Templates | 📅 Tools | 🧠 Workflows | 🤝 Community Contributions  
+ Templates |  Tools |  Workflows |  Community Contributions  
 
 ---
 
-## 🌍 Purpose  
+##  Purpose  
 
 The goal of this library is to create a **shared knowledge base** for bid and proposal teams — especially across Africa — to access practical templates, trackers, and frameworks that make proposal development more structured, faster, and smarter.  
 
--## 🗂️ Categories  
+-##  Categories  
 
 ### 1. Expressions of Interest (EOIs)  
 Short formats and structures used for early-stage bidding.  
@@ -34,7 +34,7 @@ Evaluation matrix samples, scoring sheets, and weighting examples.
 
 ---
 
-## 🤝 How to Contribute  
+##  How to Contribute  
 
 We welcome contributions!  
 If you have a useful template, framework, or tool — please share it.  
@@ -49,13 +49,13 @@ Each contribution helps build a richer, more practical resource for bid professi
 
 ---
 
-## 💡 Credits  
+##  Credits  
 
 Initiated by [Priscilla O.](https://www.linkedin.com/in/priscilla-o-), inspired by the *Inside the Bid Room* series — a storytelling and systems initiative exploring the evolving world of proposal management.  
 
 ---
 
-## 🌐 Coming Soon  
+##  Coming Soon  
 
 A public GitHub Pages view:  
 ➡️ https://peblusso.github.io/InsideTheBidRoom-Library/  
