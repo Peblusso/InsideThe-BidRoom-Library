@@ -7,7 +7,7 @@ An open-source library for bid and proposal professionals across Africa and beyo
 
 ##  Purpose  
 
-The goal of this library is to create a **shared knowledge base** for bid and proposal teams — especially across Africa — to access practical templates, trackers, and frameworks that make proposal development more structured, faster, and smarter.  
+The goal of this library is to create a **shared knowledge base** for bid and proposal teams especially across Africa to access practical templates, trackers, workflows and frameworks that make proposal development more structured, faster, and smarter.  
 
 ##  Categories  
 
@@ -33,7 +33,7 @@ Evaluation matrix samples, scoring sheets, and weighting examples.
 ##  How to Contribute  
 
 We welcome contributions!  
-If you have a useful template, framework, or tool — please share it.  
+If you have a useful template, framework, or tool please share it.  
 
 **Steps to contribute:**  
 1. Click **“Add file → Upload files”**  
