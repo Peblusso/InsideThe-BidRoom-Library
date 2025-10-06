@@ -1,4 +1,4 @@
-# InsideThe-BidRoom-Library
+
 # Inside the Bid Room Library  
 
 An open-source library for bid and proposal professionals across Africa and beyond.  
