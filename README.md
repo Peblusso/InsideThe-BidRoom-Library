@@ -11,7 +11,7 @@ The goal of this library is to create a **shared knowledge base** for bid and pr
 
 ## 🗂️ Categories
 
-1. [**Expressions of Interest (EOI)**](categories/EOI/README.md)  
+1. [Expressions of Interest (EOIs)](categories/ EOI/README.md)
    Short formats and structures used for early-stage bidding.  
    Example: Capability statements, project summaries, consultant CV formats.  
 
