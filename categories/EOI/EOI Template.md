@@ -1,6 +1,6 @@
 #  Expression of Interest (EOI) Template
 
-**📄 File Name:** `EOI_Template.md`
+**📄 File Name:** `EOI Template.md`
 
 ## 1. Cover Information
 | Field | Details |
