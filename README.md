@@ -9,30 +9,31 @@ An open-source library for bid and proposal professionals across Africa and beyo
 
 The goal of this library is to create a **shared knowledge base** for bid and proposal teams especially across Africa to access practical templates, trackers, workflows and frameworks that make proposal development more structured, faster, and smarter.  
 
-##  Categories  
+## 🗂️ Categories
 
-### 1. Expressions of Interest (EOIs)  
-Short formats and structures used for early-stage bidding.  
-Example: Capability statements, project summaries, consultant CV formats.  
+1. [**Expressions of Interest (EOIs)**](categories/EOI/README.md)  
+   Short formats and structures used for early-stage bidding.  
+   Example: Capability statements, project summaries, consultant CV formats.  
 
-### 2. Compliance Trackers  
-Tools for tracking submission requirements, page limits, mandatory forms, and client questions.  
+2. [**Compliance Trackers**](categories/ComplianceTrackers/README.md)  
+   Tools for tracking submission requirements, page limits, mandatory forms, and client questions.  
 
-### 3. Bid Calendars  
-Templates to map out deadlines, submission milestones, and team roles.  
+3. [**Bid Calendars**](categories/BidCalendars/README.md)  
+   Templates to map out deadlines, submission milestones, and team roles.  
 
-### 4. Proposal Checklists  
-Pre-submission QA lists, document completeness reviews, and formatting guides.  
+4. [**Proposal Checklists**](categories/ProposalChecklists/README.md)  
+   Pre-submission QA lists, document completeness reviews, and formatting guides.  
 
-### 5. Partner Prequalification Tools  
-Templates for gathering partner information, due diligence, and consortium summaries.  
+5. [**Partner Prequalification Tools**](categories/PartnerPrequalification/README.md)  
+   Templates for gathering partner information, due diligence, and consortium summaries.  
 
-### 6. RFP Evaluation Frameworks  
-Evaluation matrix samples, scoring sheets, and weighting examples.  
-### 7. Proposal Playbook  
-A practical guide to building winning proposals — from opportunity tracking to submission.  
- [View the Playbook](./ProposalPlaybook/InsideTheBidRoom_ProposalPlaybook.pdf)
-### 8. Bid / No-Bid Decision Frameworks  
+6. [**RFP Evaluation Frameworks**](categories/RFPEvaluationFrameworks/README.md)  
+   Evaluation matrix samples, scoring sheets, and weighting examples.  
+
+7. [**Proposal Playbook**](categories/ProposalPlaybook/README.md)  
+   A practical guide to building winning proposals — from opportunity tracking to final submission.
+
+## 8. Bid / No-Bid Decision Frameworks  
 Tools and checklists to guide teams through go/no-go decisions.  
 ➡️ [View the Bid / No-Bid SOP](./DecisionFrameworks/BidNoBid_SOP.pdf)
 
