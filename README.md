@@ -10,13 +10,12 @@ An open-source library for bid and proposal professionals across Africa and beyo
 The goal of this library is to create a **shared knowledge base** for bid and proposal teams especially across Africa to access practical templates, trackers, workflows and frameworks that make proposal development more structured, faster, and smarter.  
 
 ## 🗂️ Categories
+
 ### [1. Expressions of Interest (EOIs)](categories/EOI/README.md)
 Short formats and structures used for early-stage bidding.  
 Example: Capability statements, project summaries, consultant CV formats.
 
-### [2. Compliance Trackers].(categories/Compliance-Trackers/README.md)
-Explore templates in this folder
-
+### [2. Compliance Trackers](categories/Compliance-Trackers/README.md)
 Tools for tracking submission requirements, page limits, mandatory forms, and client questions.
 
 ### [3. Bid Calendars](categories/Bid-Calendars/README.md)
