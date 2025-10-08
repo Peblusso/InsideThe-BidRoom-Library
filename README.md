@@ -14,8 +14,8 @@ The goal of this library is to create a **shared knowledge base** for bid and pr
 Short formats and structures used for early-stage bidding.  
 Example: Capability statements, project summaries, consultant CV formats.
 
-### [2. Compliance Trackers] Explore templates in this folder:
- [Compliance Tracker Template](Compliance%20Tracker%20Template.md)
+### [2. Compliance Trackers].(categories/Compliance-Trackers/README.md)
+Explore templates in this folder
 
 Tools for tracking submission requirements, page limits, mandatory forms, and client questions.
 
