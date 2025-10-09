@@ -7,7 +7,7 @@ Here you’ll find templates, checklists, workflows, and prompts to improve how 
 
 ## 📂 Categories
 
-### 📑 [Compliance Trackers](./categories/Compliance-Trackers/Compliance-Tracker-Template.md)
+### 📑 [Compliance Trackers](categories/Compliance-Trackers/Compliance%20Tracker%20Template.md)
 Templates and examples for managing compliance matrices and client requirements.
 
 ### 📘 [Proposal Playbooks](./categories/Proposal-Playbooks/Proposal-Playbook-Template.md)
