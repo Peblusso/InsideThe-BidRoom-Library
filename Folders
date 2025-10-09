@@ -4,13 +4,14 @@ InsideThe-BidRoom-Library/
 │
 └── categories/
     ├── Compliance-Trackers/
-    │   └── Compliance Tracker Template.md
+    │   └── Compliance-Tracker-Template.md
     │
     ├── Proposal-Playbooks/
-    │   └── Proposal Playbook Template.md
+    │   └── Proposal-Playbook-Template.md
     │
     ├── Solicitation-Process/
-    │   └── Bid-No-Bid SOP.md
+    │   └── Bid-No-Bid-SOP.md
+
     │
     ├── Checklists-SOPs/
     │   └── Example Checklist.md
