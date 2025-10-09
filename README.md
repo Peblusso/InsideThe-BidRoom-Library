@@ -14,9 +14,9 @@ You’ll find open-source templates, frameworks, tools,prompt and educational de
 
 |  Category | Description |
 |-------------|--------------|
-| [**Compliance Trackers**](./categories/Compliance-Trackers/Compliance%20Tracker%20Template.md) | Tools to ensure your proposals meet all RFP and donor requirements. |
-| [**Proposal Playbooks**](./categories/Proposal-Playbooks/Proposal%20Playbook%20Template.md) | Strategy frameworks, reusable playbooks, and sample proposal structures for multi-partner bids. |
-| [**Solicitation Process & Bid/No-Bid SOP**](./categories/Solicitation-Process/Bid-No-Bid%20SOP.md) | Decision frameworks and qualification workflows to help teams assess whether to pursue or pass on opportunities. |
+| [**Compliance Trackers**](./categories/Compliance-Trackers/Compliance-Tracker-Template.md)
+[**Proposal Playbooks**](./categories/Proposal-Playbooks/Proposal-Playbook-Template.md)
+[**Solicitation Process & Bid/No-Bid SOP**](./categories/Solicitation-Process/Bid-No-Bid-SOP.md)
 | [**Checklists & SOPs**](./categories/Checklists-SOPs/) | Step-by-step guides for bid reviews, submissions, and debriefs. |
 | [**Prompts & AI Tools**](./categories/Prompts-AI-Tools/) | AI-assisted writing prompts, workflow automation, and productivity tools for bid teams. |
 | [**Bid Canvas EDU (Demo)**](#-bid-canvas-edu-demo) | A visual learning demo of a bid strategy canvas — coming soon! |
