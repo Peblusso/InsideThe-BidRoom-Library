@@ -1,65 +1,72 @@
 
 # Inside the Bid Room Library  
 
-An open-source library for bid and proposal professionals across Africa and beyond.  
+> An open-source, community-driven library of **bid management tools, templates, framwork and playbooks** for proposal professionals, project teams, and tender managers.
+> Curated by **Priscilla O.** and inspired by the _Inside the Bid Room_ learning series.
 
- Templates |  Tools |  Workflows |  Community Contributions  
+##  What Is This Library?
 
-##  Purpose  
-
-The goal of this library is to create a **shared knowledge base** for bid and proposal teams especially across Africa to access practical templates, trackers, workflows and frameworks that make proposal development more structured, faster, and smarter.  
-
-## 🗂️ Categories
-
-### [1. Expressions of Interest (EOIs)](categories/EOI/README.md)
-Short formats and structures used for early-stage bidding.  
-Example: Capability statements, project summaries, consultant CV formats.
-
-### [2. Compliance Tracker Template](https://github.com/Peblusso/InsideThe-BidRoom-Library/blob/main/categories/Compliance-Trackers/Compliance%20Tracker%20Template.md)
-to keep your proposals aligned with RFP requirements.
-
-Tools for tracking submission requirements, page limits, mandatory forms, and client questions.
-
-### [3. Bid Calendars](categories/Bid-Calendars/README.md)
-Templates to map out deadlines, submission milestones, and team roles.
-
-### [4. Proposal Checklists](categories/Proposal-Checklists/README.md)
-Pre-submission QA lists, document completeness reviews, and formatting guides.
-
-### [5. Partner Prequalification Tools](categories/Partner-Prequalification-Tools/README.md)
-Templates for gathering partner information, due diligence, and consortium summaries.
-
-### [6. RFP Evaluation Frameworks](categories/RFP-Evaluation-Frameworks/README.md)
-Evaluation matrix samples, scoring sheets, and weighting examples.
-
-### [7. Proposal Playbook](categories/Proposal-Playbook/README.md)
-A practical guide to building winning proposals — from opportunity identification to submission.
-
-## 8. Bid / No-Bid Decision Frameworks  
-Tools and checklists to guide teams through go/no-go decisions.  
-➡️ [View the Bid / No-Bid SOP](./DecisionFrameworks/BidNoBid_SOP.pdf)
+The **Inside the Bid Room Library** is a public collection of resources designed to make proposal and bid management **more transparent, collaborative, and efficient**.  
+You’ll find open-source templates, frameworks, tools,prompt and educational demos contributed by professionals in the field.
 
 
-##  How to Contribute  
+##  Categories
 
-We welcome contributions!  
-If you have a useful template, framework, or tool please share it.  
+|  Category | Description |
+|-------------|--------------|
+| [**Compliance Trackers**](./categories/Compliance-Trackers/Compliance%20Tracker%20Template.md) | Tools to ensure your proposals meet all RFP and donor requirements. |
+| [**Proposal Playbooks**](./categories/Proposal-Playbooks/Proposal%20Playbook%20Template.md) | Strategy frameworks, reusable playbooks, and sample proposal structures for multi-partner bids. |
+| [**Solicitation Process & Bid/No-Bid SOP**](./categories/Solicitation-Process/Bid-No-Bid%20SOP.md) | Decision frameworks and qualification workflows to help teams assess whether to pursue or pass on opportunities. |
+| [**Checklists & SOPs**](./categories/Checklists-SOPs/) | Step-by-step guides for bid reviews, submissions, and debriefs. |
+| [**Prompts & AI Tools**](./categories/Prompts-AI-Tools/) | AI-assisted writing prompts, workflow automation, and productivity tools for bid teams. |
+| [**Bid Canvas EDU (Demo)**](#-bid-canvas-edu-demo) | A visual learning demo of a bid strategy canvas — coming soon! |
 
-**Steps to contribute:**  
-1. Click **“Add file → Upload files”**  
-2. Add your document under the right folder (EOIs/`Workflows, `ComplianceTrackers/`)  
-3. Add a short note describing the file  
-4. Submit!  
+##  How to Use
 
-Each contribution helps build a richer, more practical resource for bid professionals worldwide.  
+1. **Browse the categories** above to explore templates or workflows.  
+2. **Open any `.md` file** (Markdown) to view the content directly on GitHub.  
+3. **Download** or **copy** the templates into your own team repositories.  
+4. **Contribute** improvements or add your own templates (see below).
 
-##  Credits  
+##  Coming Soon: Bid Canvas EDU Demo
 
-Initiated by [Priscilla O.](https://www.linkedin.com/in/priscilla-o-), inspired by the *Inside the Bid Room* series — a storytelling and systems initiative exploring the evolving world of proposal management.  
+A hands-on, visual workspace that shows how bid strategy elements — from win themes to compliance — connect in real-world proposals.  
+ _ETA: November 2025_  
+ _Status:_ In progress  
+ _Goal:_ To make bid learning interactive and accessible for all.
 
-##  Coming Soon  
 
-A public GitHub Pages view:  
-➡️ https://peblusso.github.io/InsideTheBidRoom-Library/  
+##  Contributing
 
-This will evolve into a clean, navigable homepage for the open library.  
+We welcome contributions from proposal professionals, designers, and AI enthusiasts!  
+
+1. Fork this repository  
+2. Add or update a resource in `/categories`  
+3. Submit a Pull Request (PR)  
+4. Add your name to the **Contributors** section  
+
+##  Maintainer
+
+**Priscilla O.**  
+ International Development | Proposal & Bid Management  
+ [LinkedIn](https://www.linkedin.com/in/priscilla-o)  
+ Creator of [_Inside the Bid Room_](#)
+
+##  Contributors
+
+| Name | Contribution | Link |
+|------|---------------|------|
+| You? | Add your first template! | [Contribute here](#-contributing) |
+
+##  License
+
+This project is open source under the **MIT License** — you’re free to use, share, and remix with attribution.
+
+##  Acknowledgments
+
+Inspired by every proposal team that works behind the scenes to win impact-driven projects.  
+> “Bid smarter. Collaborate openly. Learn continuously.”
+
+
+
+ 
