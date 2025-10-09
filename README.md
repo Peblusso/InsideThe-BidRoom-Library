@@ -15,7 +15,9 @@ The goal of this library is to create a **shared knowledge base** for bid and pr
 Short formats and structures used for early-stage bidding.  
 Example: Capability statements, project summaries, consultant CV formats.
 
-### [2. Compliance Trackers](categories/Compliance-Trackers/README.md)
+### ###  Compliance Tracker  
+Use our [Compliance Tracker Template](https://github.com/Peblusso/InsideThe-BidRoom-Library/blob/main/categories/Compliance-Trackers/Compliance%20Tracker%20Template.md) to keep your proposals aligned with RFP requirements.
+
 Tools for tracking submission requirements, page limits, mandatory forms, and client questions.
 
 ### [3. Bid Calendars](categories/Bid-Calendars/README.md)
