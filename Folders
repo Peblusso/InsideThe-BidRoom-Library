@@ -1,20 +1,16 @@
-InsideThe-BidRoom-Library/
+categories/
 │
-├── README.md
+├── Compliance-Trackers/
+│   └── Compliance-Tracker-Template.md
 │
-└── categories/
-    ├── Compliance-Trackers/
-    │   └── Compliance-Tracker-Template.md
-    │
-    ├── Proposal-Playbooks/
-    │   └── Proposal-Playbook-Template.md
-    │
-    ├── Solicitation-Process/
-    │   └── Bid-No-Bid-SOP.md
-
-    │
-    ├── Checklists-SOPs/
-    │   └── Example Checklist.md
-    │
-    └── Prompts-AI-Tools/
-        └── Example Prompt.md
+├── Proposal-Playbooks/
+│   └── Proposal-Playbook-Template.md
+│
+├── Solicitation-Process/
+│   └── Bid-No-Bid-SOP.md
+│
+├── Checklists-SOPs/
+│   └── Checklist-Template.md
+│
+└── Prompts-AI-Tools/
+    └── Prompt-Template.md
